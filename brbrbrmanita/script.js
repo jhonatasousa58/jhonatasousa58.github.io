@@ -11,7 +11,7 @@ function ELAACEITOUUUUU(){
 }
 
 function RECUSADOOOOO(){
-    let msgNao = "PQP em, depois de " + contadorDeRecusadas + " tentativas aparentemente você não quer namorar comigo nesse momentooooo. MMMMMAAAAAASSSSSSS NOIS É BR POHAAAA DESISTO NUNNNNCAAAAA";
+    let msgNao = "PQP em, depois de " + contadorDeRecusadas + " tentativas aparentemente você não quer namorar comigo nesse momentooooo. MMMMMAAAAAASSSSSSS NOIS É BR POHAAAA DESISTO NUNNNNCAAAAA, TE AMO PRA CRL MANITAAAA ❤️";
     alert(msgNao);
 }
 
