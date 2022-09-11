@@ -16,7 +16,7 @@ function RECUSADOOOOO(){
 }
 
 function esquivaDoBotao(){
-    botaoNao.style.top = Math.floor(Math.random() * 90) + '%';
+    botaoNao.style.top = Math.floor(Math.random() * 80) + '%';
     botaoNao.style.left = Math.floor(Math.random() * 65) + '%';
     contadorDeRecusadas++;
 }
